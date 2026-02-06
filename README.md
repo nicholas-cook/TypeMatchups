@@ -2,7 +2,7 @@
 
 # Type Matchups
 
-An application that will give the the effectiveness of one type of Pokémon move attacking another type of Pokémon.
+An application that will give the the effectiveness of Pokémon move types attacking the specified type of Pokémon.
 
 ## Overview
 On the main screen, the user can select the type or types of the target Pokémon. The app will then display the effectiveness of each type of move against that Pokémon.
