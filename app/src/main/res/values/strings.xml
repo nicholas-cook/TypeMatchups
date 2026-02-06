@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Type Matchups</string>
+    <string name="type_bug">Bug</string>
+    <string name="type_dark">Dark</string>
+    <string name="type_dragon">Dragon</string>
+    <string name="type_electric">Electric</string>
+    <string name="type_fairy">Fairy</string>
+    <string name="type_fighting">Fighting</string>
+    <string name="type_fire">Fire</string>
+    <string name="type_flying">Flying</string>
+    <string name="type_ghost">Ghost</string>
+    <string name="type_grass">Grass</string>
+    <string name="type_ground">Ground</string>
+    <string name="type_ice">Ice</string>
+    <string name="type_normal">Normal</string>
+    <string name="type_poison">Poison</string>
+    <string name="type_psychic">Psychic</string>
+    <string name="type_rock">Rock</string>
+    <string name="type_steel">Steel</string>
+    <string name="type_water">Water</string>
+    <string name="type_none">None</string>
+    <string name="label_type">Type</string>
+    <string name="label_type1">Type 1</string>
+    <string name="label_type2">Type 2</string>
+    <string name="title_target_pokemon">Target Pokémon:</string>
+    <string name="title_pokemon_move">Pokémon Move:</string>
+    <string name="title_effectiveness">Effectiveness:</string>
+    <string name="description_effectiveness">%1$sx</string>
+    <string name="description_error">Error</string>
+    <string name="title_types">Types:</string>
+</resources>
